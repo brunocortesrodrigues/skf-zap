@@ -36,5 +36,5 @@
 
 ## Docs
 
-https://www.zaproxy.org/docs/desktop/addons/automation-framework/
-https://www.zaproxy.org/docs/automate/automation-framework/
+- https://www.zaproxy.org/docs/desktop/addons/automation-framework/
+- https://www.zaproxy.org/docs/automate/automation-framework/
